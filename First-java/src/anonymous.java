@@ -1,7 +1,7 @@
 public class anonymous {
-    public class Ex {
 
-        public void main(String[] args) {
+
+        public static void main(String[] args) {
 
             /*
              * 익명(anonymous) 객체 - 클래스 이름이 없는 객체 - 클래스 선언과 객체의 생성을 동시에 하기 때문에 단 한번 사용될 수 있고 오직 하나의 객체만을 생성할 수
@@ -239,4 +239,4 @@ public class anonymous {
         }
 
     }
-}
+
